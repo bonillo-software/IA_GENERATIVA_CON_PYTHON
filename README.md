@@ -23,10 +23,6 @@ Al completar el curso, nuestros alumnos tendrán la capacidad de:
 # Requisitos:
 Para realizar este curso, son necesarios conocimientos basicos del lenguaje de programación Python.
 
-# Horario: 
- Turno de fin de semana del 19 de enero al 24 de febrero de 2024:
- * Viernes de 16.30h a 21.30h, con un descanso de 30 minutos de 18:45 a 19:15.
- * Sábados de 09h a 14h, con un descanso de 30 minutos de 11:15 a 11:45.
 
 # Modalidad: 
 * 60 horas, 6 semanas, 10 horas semanales, presencial en aula virtual (En directo por Google Meet, se le invitará a las reuniones correspondientes).
