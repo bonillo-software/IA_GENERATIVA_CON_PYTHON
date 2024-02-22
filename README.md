@@ -36,8 +36,8 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
-  * [Introducción a la Inteligencia Artificial Generativa](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Intro_IA_Gen.pdf)
-  * [Cuestiones éticas](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Etica/Etica.pdf)
+  * [Introducción a la Inteligencia Artificial Generativa]
+  * [Cuestiones éticas]
   * [Repaso de Conceptos Básicos de Python](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/repasoPython.pdf)
     * [Introducción a Python](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
   * Preprocesamiento de Datos 
@@ -45,77 +45,58 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Exploración de Conjuntos de Datos
     * [Pandas](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
   * Herramientas de Python para la Inteligencia Artificial Generativa
-    * [Aprendizaje Automático](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/AprendizajeAutomatico.pdf)
-      * [LAB 1](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1.ipynb)
-      * [LAB 1.2](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1_2.ipynb)
-    * [Aprendizaje Profundo](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/DeepLearning.pdf)
-      * [Articulo IA Generativa](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Attention%20is%20all%20you%20need.pdf)
-      * [LAB](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Lab1_deeplearning.ipynb)
+    * [Aprendizaje Automático]
+      * [LAB]
+
+    * [Aprendizaje Profundo]
+      * [Articulo IA Generativa]
+      * [LAB]
     
     
   * Ejercicio Semana 1: En base al data set [titanic](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform) 
   
-  * Videos Semana 1:
-    * [Clase 1, parte 1]
-    * [Clase 1, parte 2]
-    * [Clase 2, parte 1]
-    * [Clase 2, parte 2]
   
-## [MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLMs.pdf)
+## [MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)]
   * Arquitectura y Funcionamiento de LLMs
   * Pre-entrenamiento y Afinamiento de Modelos
   * Generación de Texto y Lenguaje Natural
   * Aplicaciones Prácticas de LLMs
   * Proyectos y Ejercicios Prácticos
-    * [LAB text generation](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_text_generation.ipynb)
-    * [LAB sumarization](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_summarization.ipynb)
-    * [LAB codellama](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/codellama.ipynb)
-    * [LAB t5](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/t5.ipynb)
+    * [LAB text generation]
+    * [LAB sumarization]
+    * [LAB codellama]
+    * [LAB t5]
    
-  * Videos Semana 2:
-    * [Clase 3, parte 1](https://drive.google.com/file/d/1hxdQpSJ7XtLjMH8kQhtOLHMzUx1zNH-o/view?usp=sharing)
-    * [Clase 3, parte 2](https://drive.google.com/file/d/1eFhph3y4OG9ay5RYC-ExYJMTHvBsKgTq/view?usp=sharing)
 
-  * Ejercicio Semana 2: Después de culminar el modulo 3 FINE-TUNING A PRETAINES MODEL del curso NLP Course de huggingface https://huggingface.co/learn/nlp-course/chapter3/1?fw=pt relice el End-of-chapter quiz https://huggingface.co/learn/nlp-course/chapter3/6?fw=pt y envie los resultados a pbonillo@gmail.com
 
-## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA](https://www.popai.pro/share.html?shareKey=9ec12e37b1195f3736f4597d804fa0b3580cea970598d8b499f95d6a8e3c3644&utm_source=presentationsharepage)
+  * Ejercicio Semana 2
+
+## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA]
   * Diseño de Modelos Generativos
   * Selección de Conjuntos de Datos y Preprocesamiento
   * Implementación de Algoritmos Generativos en Python
   * Evaluación y Optimización de Modelos
   * Integración de Modelos Generativos en Aplicaciones Prácticas
-  * [Proyectos y Prácticas Avanzadas en IA Generativa RAG](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG.pdf)
-    * [LangChain y LlamaIndex](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAGL.ipynb)
-    * [LLAMA2 CROMADB](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLAMA2_CROMADB.ipynb)
-    * [LLama2 FAISS](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLama2_FAISS.ipynb)
-    * [Documentsload](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_documentsload.ipynb)
-    * [Web](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_web.ipynb)
-
-  * Videos Semana 3:
-    * [Clase 4, parte 1](https://drive.google.com/file/d/1U_h9jMWzZosV90QY1IPdJHkueSaCZnse/view?usp=sharing)
-    * [Clase 4, parte 2](https://drive.google.com/file/d/1Z6a4D5pO1qgC7xFWtqtOf6GZ6Lfv3nft/view?usp=sharing)
-    * [Clase 5, parte 1](https://drive.google.com/file/d/1h7NT9ltyAT4KTzz_CuvksWdb4wuHlmFD/view?usp=sharing)
-    * [Clase 5, parte 2](https://drive.google.com/file/d/1NMofiJBlbn0Ww3cWGV_vdxlJjLo73GLP/view?usp=sharing)
+  * [Proyectos y Prácticas Avanzadas en IA Generativa RAG]
+    * [LangChain y LlamaIndex]
+    * [LLAMA2 CROMADB]
+    * [LLama2 FAISS]
+    * [Documentsload]
+    * [Web]
 
   * Ejercicio Semana 3: En base a el ejercicio de LLAMA2 CROMADB, seleccione un archivo pdf correspondiente a la data propuesta para su tema de proyecto y ejecute nuevamente la notebook, luego descargue el archivo ipynb y envielo a pbonillo@gmail.com. Adicionalmente usted debe realizar un mapa mental o un mapa conceptual del **[vídeo](https://www.youtube.com/watch?v=hfIUstzHs9A)** de **Kate Soule** de **IBM**) y enviarlo a pbonillo@gmail.com
 
-## [MODULO IV - PROMPT ENGINEERING Y FINE TUNIN](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/PromptEnineering_GenConfig.pdf)
+## [MODULO IV - PROMPT ENGINEERING Y FINE TUNIN]
   * Conceptos Fundamentales de Prompt Engineering
   * Estrategias de Generación de Prompts Efectivos
   * Proceso de Fine Tuning en Modelos Generativos
   * Optimización de Modelos con Fine Tuning
   * Aplicaciones Avanzadas de Prompt Engineering
   * Prácticas y Proyectos con Prompt Engineering y Fine Tuning
-    * [Prompting](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/Prompting.ipynb)
-    * [Generative configuration Codellama](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_Codellama.ipynb)
-    * [Generative configuration llama2](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/llama2.ipynb)
-    * [Fine tuning](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/3.Fine%20tuning/FineTune_Lora.ipynb)
-
-* Videos Semana 4:
-    * [Clase 6, parte 1](https://drive.google.com/file/d/1fE6L-a_Z_Mmhk2HJsgrxACpGax1TwdNm/view?usp=sharing)
-    * [Clase 6, parte 2](https://drive.google.com/file/d/1gpqcC7UCJoHuBTo7oxWEPmhQICBiiqop/view?usp=sharing)
-    * [Clase 7, parte 1]()
-    * [Clase 7, parte 2]()    
+    * [Prompting]
+    * [Generative configuration Codellama]
+    * [Generative configuration llama2]
+    * [Fine tuning]
 
 
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
