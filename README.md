@@ -31,8 +31,49 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
-  * [Introducción a la Inteligencia Artificial Generativa]
-  * [Cuestiones éticas]
+* Fundamentos de Inteligencia Artificial:
+   Introducción a la inteligencia artificial.
+   Aprendizaje automático supervisado y no supervisado.
+   Redes neuronales artificiales.
+   Modelos generativos y discriminativos.
+   Algoritmos de optimización.
+   Inteligencia Artificial Generativa:
+* Modelos generativos clásicos.
+   Redes Generativas Adversariales (GANs).
+   Redes Neuronales Variacionales (VAEs).
+   Flujos de transformación.
+   Aplicaciones de IA generativa en imágenes, texto, audio, etc.
+* Ciberseguridad:
+  Fundamentos de seguridad informática.
+  Amenazas y vulnerabilidades comunes.
+  Criptografía moderna.
+  Protección de datos y privacidad.
+  Detección y prevención de intrusiones.
+  Aplicaciones de la Inteligencia Artificial en Ciberseguridad:
+* Análisis de comportamiento de usuarios y sistemas.
+  Detección de malware.
+  Inteligencia de amenazas.
+  Autenticación biométrica.
+  Seguridad en sistemas embebidos y IoT.
+  Seguridad en Redes y Sistemas:
+* Seguridad en redes de computadoras.
+  Firewalls y sistemas de detección de intrusos (IDS/IPS).
+  Seguridad en sistemas operativos.
+  Virtualización y contenedores seguros.
+  Seguridad en la nube.
+  Ética y Legalidad en IA y Ciberseguridad:
+* Implicaciones éticas de la IA y la ciberseguridad.
+  Responsabilidad y transparencia en algoritmos.
+  Normativas y regulaciones internacionales.
+  Privacidad de datos y protección legal.
+* Implementación de modelos generativos en diferentes dominios.
+  Análisis de incidentes de seguridad.
+  Desarrollo de herramientas de ciberseguridad basadas en IA.
+  Evaluación de riesgos y políticas de seguridad.
+  Tendencias y Futuro de la Inteligencia Artificial y la Ciberseguridad:
+* Avances recientes en IA generativa y ciberseguridad.
+  Perspectivas futuras y posibles aplicaciones.
+  Desafíos emergentes y áreas de investigación
   * [Repaso de Conceptos Básicos de Python](https://github.com/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/repasoPython.pdf)
     * [Introducción a Python](https://colab.research.google.com/github/bonillo-software/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
   * Preprocesamiento de Datos 
